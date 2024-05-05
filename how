@@ -1,1 +1,3 @@
-
+sqlite사이트에서 다운로드들어간 다음 Precompiled Binaries for Windows에서 64-bit DLL (x64) for SQLite version 3.45.3. 와
+A bundle of command-line tools for managing SQLite database files, including the command-line shell program, the sqldiff.exe program, and the sqlite3_analyzer.exe program. 64-bit.를 다운로드받는다.
+cmd를 열어 sqlite3를 입력한뒤 데이터베이스를 생성한다. c++코드를 작성하고 헤더파일과 db파일을 넣고 실행시킨다.
